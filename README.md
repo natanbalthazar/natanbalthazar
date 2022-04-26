@@ -6,7 +6,7 @@
 ### 👨🏽‍💻 About Me!
 
 Hi, welcome to my life! I'm Natan Balthazar and I'm 22 years old! I’ve been programming since I was 19 years old and currently I work with the methodology Scrum or Kanban in my projects. I'm a passionate mobile and web developer from Brazil.
-- 🌱 I’m currently learning Front-end development
+- 🌱  I’m currently learning: **React, Node, Typescript, Next.js**
 - 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo) 
 - 👯 I collaborated on Adopet
 
