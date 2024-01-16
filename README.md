@@ -5,7 +5,7 @@
 
 ### 👨🏽‍💻 About Me!
 
-Hi, welcome to my life! I'm Natan Balthazar and I'm 22 years old! I’ve been programming since I was 19 years old and currently I work with the methodology Scrum or Kanban in my projects. I'm a passionate mobile and web developer from Brazil.
+Hi, welcome to my life! I'm Natan Balthazar and I'm 24 years old! I’ve been programming since I was 19 years old and currently I work with the methodology Scrum or Kanban in my projects. I'm a passionate mobile and web developer from Brazil.
 - 🌱  I’m currently learning: **React, Node, Typescript, Next.js**
 - 🔭 I’m currently working on [MadeiraMadeira](https://github.com/madeiramadeirabr) 
 - 👯 I collaborated on Adopet and Site do Ramo
