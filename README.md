@@ -1,27 +1,37 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Natan%20Balthazar-515BD4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanbalthazar/)](https://www.linkedin.com/in/natanbalthazar/)
-[![Gmail Badge](https://img.shields.io/badge/-dev.natanandrade@gmail.com-DD2A7B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.natanadrade@gmail.com)](mailto:dev.natanandrade@gmail.com)
+[![Website](https://img.shields.io/badge/-natanbalthazar.online-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://www.natanbalthazar.online)
+[![LinkedIn](https://img.shields.io/badge/-Natan%20Balthazar-515BD4?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natanbalthazar/)
+[![Gmail](https://img.shields.io/badge/-balthazarnatan@gmail.com-DD2A7B?style=flat-square&logo=Gmail&logoColor=white)](mailto:balthazarnatan@gmail.com)
 
 <hr>
 
-### 👨🏽‍💻 About Me!
+### 👨🏽‍💻 About me
 
-Hi, welcome to my life! I'm Natan Balthazar and I'm 25 years old! I’ve been programming since I was 19 years old and currently I work with the methodology Scrum or Kanban in my projects. I'm a passionate mobile and web developer from Brazil.
-- 🌱  I’m currently learning: **React, Node, Typescript, Next.js**
+Full-stack software engineer, building for web and mobile since 2019.
+
+- 💼 **Today:** Software Engineer at **Azzas 2154** (Labs). I build and maintain the internal platform where fashion products go from creation to production across the group's brands, with 40,000+ products on it.
+- 🛠️ **What that means:** React/Next.js screens, Node.js/NestJS APIs, integrations with the ERP and PLM, data pipelines in Python/Airflow, and fixing production issues with Sentry.
+- 🌐 Open to remote or hybrid · Portuguese (native), English (fluent)
+- 📄 Portfolio and résumé: **[natanbalthazar.online](https://www.natanbalthazar.online)**
 
 <hr>
 
-### 💡 Technologies that I work with
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Natan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Natan-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div><br>
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/natanbalthazar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanbalthazar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanbalthazar&layout=compact&langs_count=7&theme=dark"/>
+### 💡 Stack
+
+<div align="center">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+
 <hr>
+
+### 🚀 Featured
+
+- [**portfolio**](https://github.com/natanbalthazar/portfolio): my site, Next.js 16 with a three-language, ATS-friendly résumé
+- [**Adopet**](https://github.com/natanbalthazar/App-Adopet): pet adoption app, I led the team and designed the brand
